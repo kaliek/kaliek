@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yujiao @kaliek
-- 👀 I’m interested in frontend engineering, web development, and natural language processig
+- 👀 I’m interested in web development, react, AST, and natural language processig
 
 <!---
 kaliek/kaliek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
